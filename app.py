@@ -1,18 +1,14 @@
 print('basic program structure')
 print('add login feature')
 print('change website font')
-<<<<<<< HEAD
 print('add haya picture')
-=======
-print('add my picture')
->>>>>>> conflect-demo
 print('add form section')
 print('add news section')
 print('update news section')
 print('add footer section')
 print('change the font to Montesserat')
 print('update the header navigation list')
-print('change website logo')
+print('logo updated by hasan')
 print('adding training department')
 print('adding development department')
 print('meeting schedual')
