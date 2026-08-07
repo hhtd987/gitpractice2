@@ -1,7 +1,11 @@
 print('basic program structure')
 print('add login feature')
 print('change website font')
+<<<<<<< HEAD
 print('add haya picture')
+=======
+print('add my picture')
+>>>>>>> conflect-demo
 print('add form section')
 print('add news section')
 print('update news section')
