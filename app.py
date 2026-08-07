@@ -1,7 +1,7 @@
 print('basic program structure')
 print('add login feature')
 print('change website font')
-print('change hero picture')
+print('add haya picture')
 print('add form section')
 print('add news section')
 print('update news section')
