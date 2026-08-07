@@ -8,7 +8,11 @@ print('update news section')
 print('add footer section')
 print('change the font to Montesserat')
 print('update the header navigation list')
+<<<<<<< HEAD
 print('logo updated by hasan')
+=======
+print('logo updated by haneen')
+>>>>>>> haneen-update
 print('adding training department')
 print('adding development department')
 print('meeting schedual')
